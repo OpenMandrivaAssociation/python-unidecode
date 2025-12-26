@@ -1,6 +1,6 @@
 Summary:	ASCII transliterations of Unicode text
 Name:		python-unidecode
-Version:	1.3.8
+Version:	1.4.0
 Release:	1
 License:	GPLv2+
 Group:		Development/Python
